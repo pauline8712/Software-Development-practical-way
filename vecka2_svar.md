@@ -16,6 +16,5 @@
 - På Visual Studio så skriver man ändringar, sen commitar man det på Git Changes. 
 
 
-# Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
 
 
