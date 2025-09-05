@@ -8,4 +8,7 @@
 - Är lite mer bekvämmare eftersom man gör lite itaget samtidigt som man regelbundet kontrollerar att man är på rätt väg.
 - Det är mer anpassningsbar för en som utvecklare och för kunden/användaren som kanske vill ändra något mitt i arbetet.
 
+# Vad är ett Git-commit och varför är det viktigt?
+
+
 
