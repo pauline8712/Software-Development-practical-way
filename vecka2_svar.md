@@ -13,7 +13,10 @@
 - Ändringarna man commitar sparas lokalt på datorn däremot det betyder inte när man commitar så är den på GitHub. Det är därför man pushar efter man commitar
 - Men på Visual Studio så kan man commita och pusha samtidigt! 
 - Man kan commita på olika sätt t.ex på Git Bash så behöver man skriva git add först innan man commitar.
-- På Visual Studio så skriver man ändringar, sen commitar man det på Git Changes. 
+- På Visual Studio så skriver man ändringar, sen commitar man det på Git Changes.
+
+# Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
+
 
 
 
